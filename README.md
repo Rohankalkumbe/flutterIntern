@@ -66,6 +66,5 @@ This project is submitted as part of the evaluation for the Flutter Developer In
 
 - **Submission Date:** [Jan 30, 2025]
 - **Contact Information:**
-- 
 - **Email:** rohankalkumbe31@gmail.com
 - **Phone:** 9049045218
