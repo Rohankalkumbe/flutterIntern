@@ -45,7 +45,7 @@ This repository contains the implementation of the design assignment provided as
 
 ## Screenshots
 
-"C:\flutterIntern\Task_Complete_Intern.jpg"
+![Task_Complete_Intern](https://github.com/user-attachments/assets/4bb6e536-f93e-4d76-8103-b6591f651add)
 
 ## Folder Structure
 
